@@ -33,7 +33,7 @@ Begal: None of the digits in the guess are correct.
      -Begal if no digits match.
 4.Keep guessing until all digits are correct!
 
-**Missionaries_and_Cannibals
-The Missionaries and Cannibals game is a Python implementation where the goal is to transport missionaries and cannibals across a river using a boat while following the rules: the boat can carry up to two people, and there must never be more cannibals than missionaries on either side. The objective is to safely get all characters across the river without breaking the rules. To play, clone the repository, navigate to the project directory, and run the missionaries_and_cannibals.py script.
+**Missionaries_Cannibals_game
+The Missionaries and Cannibals game is a Python implementation where the goal is to transport missionaries and cannibals across a river using a boat while following the rules: the boat can carry up to two people, and there must never be more cannibals than missionaries on either side. The objective is to safely get all characters across the river without breaking the rules. To play, clone the repository, navigate to the project directory, and run the Missionary_Cannibals_game.ipynb script.
 
 
