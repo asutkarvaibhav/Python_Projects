@@ -1,40 +1,37 @@
-# Python_Projects
+# 🐍 Python Logic-Based Projects
 
-This repository contain some Python project from bigginer level to advance.
+This repository contains simple, beginner-friendly Python projects focused on core programming concepts like functions, loops, conditionals, and file handling. Each project runs on basic Python — no external libraries required.
 
+---
 
-**Project 1: Bike_Rent_Project**
-A Bike Rental System
+## 📁 Projects Included
 
-A full fledged bike rental system implemented in Python using object oriented programming.
+### 1. 🧠 Fermi-Pico-Bagal Game  
+A number-guessing game that gives clues:
+- **Fermi** → right digit, right place  
+- **Pico** → right digit, wrong place  
+- **Bagal** → wrong digit  
 
-Customers can see available bikes on the shop. Rent bikes on daily basis Rs.100 per day. Rent bikes on weekly basis Rs.500 per week. Family Rental, a promotion that can include from 3 to 5 Rentals (of any type) with a discount of 30% of the total price.
+### 2. 🧍‍♂️🌊 Missionaries and Cannibals Game  
+Solve the classic river-crossing puzzle using logic and rule-based checks to move characters safely.
 
-The bike rental shop can issue a bill when customer decides to return the bike, display available inventory ,take requests on daily and weekly basis by cross verifying stock.
+### 3. ☎️ Contact Management App  
+A command-line application to:
+- Add, update, delete, and search contacts  
+- Save and read data from a file  
 
-For simplicity we assume that Any customer requests rentals of only one type i.e daily or weekly and is free to choose the number of bikes he/she wants. Requested bikes should be less than available stock.
+### 4. 🚲 Bike Rental Logic (Non-ML)  
+A basic simulation to calculate or record bike rental data based on user input (not using machine learning).
 
+---
 
-**Project 2: Fermi_Pico_Begal_Game**
+## 🛠️ Tech Used
 
-The Fermi Pico Begal Game is a fun and interactive number guessing game. 
+- **Python 3**
+- No external libraries
+- Run directly via terminal, VS Code, or any Python IDE
 
-*The hints are:*
-Fermi: A digit is correct and in the right position.
-Pico: A digit is correct but in the wrong position.
-Begal: None of the digits in the guess are correct.
+---
 
-*How to play-*
-1.The game will ask for an original number (input by one player or chosen secretly).
-2.The guessing player will input their guess number.
-3.The game will provide feedback:
-    - Fermi for digits that are correct and in the correct position.
-    - Pico for digits that are correct but in the wrong position.
-     -Begal if no digits match.
-4.Keep guessing until all digits are correct!
-
-**Missionaries_Cannibals_game
-The Missionaries and Cannibals game is a Python implementation where the goal is to transport missionaries and cannibals across a river using a boat while following the rules: the boat can carry up to two people, and there must never be more cannibals than missionaries on either side. The objective is to safely get all characters across the river without breaking the rules. To play, clone the repository, navigate to the project directory, and run the Missionary_Cannibals_game.ipynb script.
-
-
-*Thank You*
+👨‍💻 Author  
+Vaibhav Asutkar
